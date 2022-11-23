@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.netology.delivery.CardDelivery" tests="12" skipped="0" failures="0" errors="0" timestamp="2022-11-23T12:20:39" hostname="DESKTOP-03JI6LC" time="68.92">
+  <properties/>
+  <testcase name="shouldNotSendFormWithoutPhone()" classname="ru.netology.delivery.CardDelivery" time="9.197"/>
+  <testcase name="shouldNotSendFormWithWrongPhone()" classname="ru.netology.delivery.CardDelivery" time="2.796"/>
+  <testcase name="shouldSendFormWithValidData1()" classname="ru.netology.delivery.CardDelivery" time="13.041"/>
+  <testcase name="shouldSendFormWithValidData2()" classname="ru.netology.delivery.CardDelivery" time="13.315"/>
+  <testcase name="shouldSendFormWithValidData3()" classname="ru.netology.delivery.CardDelivery" time="13.273"/>
+  <testcase name="shouldNotSendFormWithWrongCity()" classname="ru.netology.delivery.CardDelivery" time="2.525"/>
+  <testcase name="shouldNotSendFormWithWrongDate()" classname="ru.netology.delivery.CardDelivery" time="2.536"/>
+  <testcase name="shouldNotSendFormWithWrongName()" classname="ru.netology.delivery.CardDelivery" time="2.725"/>
+  <testcase name="shouldNotSendFormWithoutCity()" classname="ru.netology.delivery.CardDelivery" time="2.151"/>
+  <testcase name="shouldNotSendFormWithoutDate()" classname="ru.netology.delivery.CardDelivery" time="2.554"/>
+  <testcase name="shouldNotSendFormWithoutName()" classname="ru.netology.delivery.CardDelivery" time="2.316"/>
+  <testcase name="shouldNotSendFormWithoutCheckbox()" classname="ru.netology.delivery.CardDelivery" time="2.477"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Starting ChromeDriver 107.0.5304.62 (1eec40d3a5764881c92085aaee66d25075c159aa-refs/branch-heads/5304@{#942}) on port 10749
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+нояб. 23, 2022 7:20:43 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
